@@ -1,0 +1,10 @@
+.search-list {
+  height: 300px;
+  overflow-y: auto;
+}
+.empty-card {
+  height: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
